@@ -6,6 +6,5 @@ public class Cat1 {
     //I have a cat
     //...
     //meow
-
     //cat cat
 }
